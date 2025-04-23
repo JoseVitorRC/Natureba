@@ -68,11 +68,13 @@ export function Welcome() {
         <h1>Blog</h1>
             <div>
               <label>
-                Digite seu nome: <input name='Digite seu nome:' style={styles.formSection}/>
+                Digite seu nome: 
+                <input name='Digite seu nome:' style={styles.formSection}/>
               </label>
               <hr />
               <label>
-                Deixe sua mensagem: <input name='Deixe sua mensagem:' style={styles.formSection}/>
+                Deixe sua mensagem: 
+                <input name='Deixe sua mensagem:' style={styles.formSection}/>
               </label>
             </div>
       </section>
